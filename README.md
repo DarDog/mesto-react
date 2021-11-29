@@ -16,11 +16,12 @@ ___
 Для запуска локального сервера
 
         npm install
-        npm run build
+        npm run start
 
 Для сборки
 
         npm run build
+        npm run eject
 
 ___
 ### Описание:
